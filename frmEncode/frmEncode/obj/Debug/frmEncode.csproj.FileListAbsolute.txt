@@ -1,0 +1,84 @@
+D:\btl\frmEncode\frmEncode\bin\Debug\frmEncode.exe.config
+D:\btl\frmEncode\frmEncode\bin\Debug\frmEncode.exe
+D:\btl\frmEncode\frmEncode\bin\Debug\frmEncode.pdb
+D:\btl\frmEncode\frmEncode\obj\Debug\frmEncode.csprojResolveAssemblyReference.cache
+D:\btl\frmEncode\frmEncode\obj\Debug\frmEncode.Form1.resources
+D:\btl\frmEncode\frmEncode\obj\Debug\frmEncode.frmDecode.resources
+D:\btl\frmEncode\frmEncode\obj\Debug\frmEncode.Properties.Resources.resources
+D:\btl\frmEncode\frmEncode\obj\Debug\frmEncode.csproj.GenerateResource.Cache
+D:\btl\frmEncode\frmEncode\obj\Debug\frmEncode.exe
+D:\btl\frmEncode\frmEncode\obj\Debug\frmEncode.pdb
+E:\Java\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.exe.config
+E:\Java\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.exe
+E:\Java\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.pdb
+E:\Java\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.exe
+E:\Java\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.pdb
+E:\Java\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.csprojResolveAssemblyReference.cache
+E:\Java\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.Form1.resources
+E:\Java\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.frmDecode.resources
+E:\Java\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.Properties.Resources.resources
+E:\Java\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.csproj.GenerateResource.Cache
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.exe.config
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.exe
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.pdb
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.exe
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.pdb
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.Form1.resources
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.frmDecode.resources
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.Properties.Resources.resources
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.csproj.GenerateResource.Cache
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\itextsharp.dll
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\itextsharp.xml
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.csprojResolveAssemblyReference.cache
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\Spire.License.dll
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\Spire.Pdf.dll
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\Microsoft.mshtml.dll
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\Spire.License.xml
+D:\E\downloadNew\downloadNew\frmEncode\frmEncode\frmEncode\bin\Debug\Spire.Pdf.xml
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.exe.config
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.exe
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.pdb
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.exe
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\frmEncode.pdb
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\itextsharp.dll
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\Spire.License.dll
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\Spire.Pdf.dll
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\Microsoft.mshtml.dll
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\itextsharp.xml
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\Spire.License.xml
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\bin\Debug\Spire.Pdf.xml
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.csprojResolveAssemblyReference.cache
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.Form1.resources
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.frmDecode.resources
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.Properties.Resources.resources
+C:\Users\hieuvu\Documents\Visual Studio 2015\Projects\frmEncode\frmEncode\frmEncode\obj\Debug\frmEncode.csproj.GenerateResource.Cache
+E:\frmEncode\frmEncode\bin\Debug\frmEncode.exe.config
+E:\frmEncode\frmEncode\obj\Debug\frmEncode.exe
+E:\frmEncode\frmEncode\obj\Debug\frmEncode.pdb
+E:\frmEncode\frmEncode\bin\Debug\frmEncode.exe
+E:\frmEncode\frmEncode\bin\Debug\frmEncode.pdb
+E:\frmEncode\frmEncode\bin\Debug\itextsharp.dll
+E:\frmEncode\frmEncode\bin\Debug\Microsoft.mshtml.dll
+E:\frmEncode\frmEncode\bin\Debug\itextsharp.xml
+E:\frmEncode\frmEncode\bin\Debug\Spire.License.xml
+E:\frmEncode\frmEncode\bin\Debug\Spire.Pdf.xml
+E:\frmEncode\frmEncode\obj\Debug\frmEncode.csprojResolveAssemblyReference.cache
+E:\frmEncode\frmEncode\obj\Debug\frmEncode.Form1.resources
+E:\frmEncode\frmEncode\obj\Debug\frmEncode.frmDecode.resources
+E:\frmEncode\frmEncode\obj\Debug\frmEncode.Properties.Resources.resources
+E:\frmEncode\frmEncode\obj\Debug\frmEncode.csproj.GenerateResource.Cache
+E:\Hoc tap\frmEncode\frmEncode\bin\Debug\frmEncode.exe.config
+E:\Hoc tap\frmEncode\frmEncode\obj\Debug\frmEncode.exe
+E:\Hoc tap\frmEncode\frmEncode\obj\Debug\frmEncode.pdb
+E:\Hoc tap\frmEncode\frmEncode\bin\Debug\frmEncode.exe
+E:\Hoc tap\frmEncode\frmEncode\bin\Debug\frmEncode.pdb
+E:\Hoc tap\frmEncode\frmEncode\bin\Debug\itextsharp.dll
+E:\Hoc tap\frmEncode\frmEncode\bin\Debug\Microsoft.mshtml.dll
+E:\Hoc tap\frmEncode\frmEncode\bin\Debug\itextsharp.xml
+E:\Hoc tap\frmEncode\frmEncode\bin\Debug\Spire.License.xml
+E:\Hoc tap\frmEncode\frmEncode\bin\Debug\Spire.Pdf.xml
+E:\Hoc tap\frmEncode\frmEncode\obj\Debug\frmEncode.csprojResolveAssemblyReference.cache
+E:\Hoc tap\frmEncode\frmEncode\obj\Debug\frmEncode.Form1.resources
+E:\Hoc tap\frmEncode\frmEncode\obj\Debug\frmEncode.frmDecode.resources
+E:\Hoc tap\frmEncode\frmEncode\obj\Debug\frmEncode.Properties.Resources.resources
+E:\Hoc tap\frmEncode\frmEncode\obj\Debug\frmEncode.csproj.GenerateResource.Cache
